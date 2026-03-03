@@ -1,10 +1,8 @@
-📚 **Study Vault**
+📚 Study Vault
 
 Study Vault is a secure academic resource-sharing platform built to simplify how students upload, discover, and access study materials. Designed with scalability and security in mind, it delivers a smooth experience for both contributors and learners.
 
-
-🧭 **How the Platform Operates**
-1️⃣ Account Creation & Email Confirmation
+🧭 How the Platform Operates 1️⃣ Account Creation & Email Confirmation
 
 Users create an account using their email and password.
 
@@ -82,8 +80,7 @@ Cloud-based storage ensures quick delivery of PDF files.
 
 Architecture designed to scale with increased users and content.
 
-
-📸 **Application Screens**
+📸 Application Screens
 
 Home Interface
 
@@ -99,9 +96,7 @@ Resource Detail & Review
 
 My Uploads Dashboard
 
-
-🛠 **Technology Stack**
-**Backend**
+🛠 Technology Stack Backend
 
 Node.js
 
@@ -119,8 +114,7 @@ Cloudinary SDK
 
 Nodemailer
 
-
-**Frontend**
+Frontend
 
 React.js
 
@@ -129,8 +123,3 @@ React Router DOM
 Axios
 
 Responsive CSS styling
-
-
-
-
-
